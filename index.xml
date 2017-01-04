@@ -18,11 +18,11 @@
       <guid>https://odhondt.github.io/project/tomosar/</guid>
       <description>
 
+&lt;p&gt;&lt;img src=&#34;https://odhondt.github.io/img/fig_tomosar.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;project-summary&#34;&gt;Project summary&lt;/h2&gt;
 
 &lt;p&gt;This project deals with the automatic interpretation of tomographic SAR (TomoSAR) data. TomoSAR allows to reconstruct 3D objects from several 2D images acquired by an Earth observation system called Synthetic Aperture Radar (SAR). A SAR is able to provide images by sending and receiving electromagnetic waves in the microwave domain. By stacking images acquired with different incidence angles and applying high resolution signal processing methods, it is possible to reconstruct 3D reflectivity profiles. Our main goal is to develop pattern recognition algorithms to provide a semantic interpretation of such data.&lt;/p&gt;
-
-&lt;p&gt;contact: &lt;a href=&#34;http://www.cv.tu-berlin.de/menue/mitarbeiter/olivier_dhondt/&#34; target=&#34;_blank&#34;&gt;Olivier D&amp;rsquo;Hondt&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;sub-topics&#34;&gt;Sub-topics&lt;/h2&gt;
 
