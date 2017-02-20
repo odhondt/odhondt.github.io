@@ -82,9 +82,6 @@ S. Guillaso, O. D’Hondt and O. Hellwich.
 E. Meinhardt-Llopis, O. D’Hondt, G. Facciolo and V. Caselles.  
 **Relative Depth From Monocular Optical Flow.** IEEE International Conference on Image Processing (IEEE ICIP 2011), 2011, Brussels, Belgium
 
-O. D’Hondt and V. Caselles.  
-**Unsupervised motion layer segmentation by random sampling and energy minimization.** CVMP 2010 (Conference on Visual Media Production), IEEE Computer Society, 2010, 141-150, London, UK
-
 N. Papadakis, A. Baeza, I. Rius, X. Armangue, A. Bugeau, O. D’Hondt, P. Gargallo, V. Caselles, and S. Sagas.  
 **Virtual camera synthesis for soccer game replays.** CVMP 2010 (Conference on Visual Media Production), IEEE Computer Society, 2010, 97-106, London, UK
 
@@ -95,32 +92,32 @@ O. D’Hondt, C. Lopez-Martinez, L. Ferro-Famil, E. Pottier.
 **Quantitative analysis of texture parameter estimation in SAR images.** Geoscience and Remote Sensing Symposium, 2007. IGARSS 2007. IEEE International , vol., no., pp.274,277, 23-28 July 2007, Barcelona, Spain
 
 O. D’Hondt, L. Ferro-Famil, and E. Pottier.  
-Spatial correlation analysis of polarimetric SAR data by means of the structure tensor. In EUSAR 2006, Dresden, Germany
+**Spatial correlation analysis of polarimetric SAR data by means of the structure tensor.** In EUSAR 2006, Dresden, Germany
 
 O. D’Hondt, L. Ferro-Famil, and E. Pottier.  
-The gradient structure tensor as an efficient descriptor of spatial texture in polarimetric SAR data. In Geoscience and Remote Sensing Symposium, 2006, IGARSS ’06 Proceedings, 2006
+**The gradient structure tensor as an efficient descriptor of spatial texture in polarimetric SAR data.** In Geoscience and Remote Sensing Symposium, 2006, IGARSS ’06 Proceedings, 2006
 
 O. D’Hondt, Laurent Ferro-Famil, and Eric Pottier.  
-Spatial texture analysis of SAR data by anisotropic gaussian kernels. In International Conference on Synthetic Aperture Sonar and Synthetic Aperture Radar, Lerici, Italy, 2006
+**Spatial texture analysis of SAR data by anisotropic gaussian kernels.** In International Conference on Synthetic Aperture Sonar and Synthetic Aperture Radar, Lerici, Italy, 2006
 
 O. D’Hondt, L. Ferro-Famil, and E. Pottier.  
-A speckle filter based on spatial texture analysis of SAR data. In Geoscience and Remote Sensing Symposium, 2005. IGARSS ’05. Proceedings. 2005 IEEE International, volume 6, pages 4283–4286, 2005, Seoul, Korea
+**A speckle filter based on spatial texture analysis of SAR data.** In Geoscience and Remote Sensing Symposium, 2005. IGARSS ’05. Proceedings. 2005 IEEE International, volume 6, pages 4283–4286, 2005, Seoul, Korea
 
 O. D’Hondt, L. Ferro-Famil, and E. Pottier.  
-Texture analysis of SAR images applied to speckle filtering. In European Radar Conference. EURAD 2005, Paris, France, pages 61–64, 2005
+**Texture analysis of SAR images applied to speckle filtering.** In European Radar Conference. EURAD 2005, Paris, France, pages 61–64, 2005
 
 O. D’Hondt, L. Ferro-Famil, and E. Pottier.  
-Local orientation analysis of spatial texture from polarimetric SAR data. In Geoscience and Remote Sensing Symposium, 2004. IGARSS ’04. Proceedings. 2004 IEEE International, volume 2, pages 1236–1239 vol.2, 2004, Anchorage, USA
+**Local orientation analysis of spatial texture from polarimetric SAR data.** In Geoscience and Remote Sensing Symposium, 2004. IGARSS ’04. Proceedings. 2004 IEEE International, volume 2, pages 1236–1239 vol.2, 2004, Anchorage, USA
 
 O. D’Hondt, L. Ferro-Famil, and E. Pottier.  
-Nonstationary texture analysis from polarimetric SAR data. In EUSAR 2004, Ulm, Germany
+**Nonstationary texture analysis from polarimetric SAR data.** In EUSAR 2004, Ulm, Germany
 
 ## French conference
 
 O. D’Hondt, L. Ferro-Famil, and E. Pottier.  
-Analyse de la texture dans les images SAR appliquée au filtrage de speckle. In GRETSI, Louvain La Neuve, Belgium, 2005
+**Analyse de la texture dans les images SAR appliquée au filtrage de speckle.** In GRETSI, Louvain La Neuve, Belgium, 2005
 
 ## Technical Reports
 
 O. D’Hondt, G. Facciolo, E. Meinhardt and V. Caselles.  
-Efficient Multi-label Video Segmentation Based on Geodesic Distance, UPF, 2010
+**Efficient Multi-label Video Segmentation Based on Geodesic Distance.** UPF, 2010
