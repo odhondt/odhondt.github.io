@@ -24,7 +24,30 @@ DEUG Sciences de la Matière (two-year university degree in Physics), University
 
 Work experience
 ======
-Jan. 2022 – Sep. 2023 Senior SAR (Synthetic Aperture Radar) Scientist, Floodbase, USA (remote).  
+### Jan. 2022 – Sep. 
+2023 Senior SAR (Synthetic Aperture Radar) Scientist, Floodbase, USA (remote).
+
+### Jul. 2018 – Aug. 2021
+Research associate, Computer Vision & Remote Sensing Group, Technical University of Berlin, Germany.
+
+### Mar. 2015 – Jun. 2018
+Research associate, Computer Vision & Remote Sensing Group, Technical University of Berlin, Germany.
+
+### Sept. 2011 – Aug. 2014
+Research associate, Computer Vision & Remote Sensing Group, Technical University of Berlin, Germany.
+
+### Nov. 2007 – Dec. 2010
+Research engineer, Barcelona Media Innovation & Research Center, Barcelona, Spain.
+
+### Mar. 2006 – Aug. 2007
+Postdoctoral researcher, Active Remote Sensing Lab, Polytechnic University of Catalonia, Barcelona, Spain.
+
+### Sept. 2002 – Feb. 2007
+PhD candidate, Institute of Electronics and Telecommunication of Rennes, University of Rennes 1, France.
+
+### Mar. 2002 – Aug. 2002
+Master intern, Institute of Electronics and Telecommunication of Rennes, University of Rennes 1, France.
+
   
 Skills
 ======
