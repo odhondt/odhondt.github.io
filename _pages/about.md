@@ -18,3 +18,5 @@ From November 2007 to January 2011, I was a Research Scientist at the Barcelona 
 From March 2006 to October 2007, I was a Postdoctoral Fellow and stayed as an invited member with the Remote Sensing Laboratory, from the Signal Theory and Communications Department TSC, Universitat Politècnica de Catalunya (UPC) in Barcelona, Spain. I was also with the Geophysical Imagery team from the Geosciences Rennes Laboratory, University of Rennes 1, France.
 
 I received the M.S. degree in electrical engineering in 2002 and the Ph.D. degree in Signal Processing and Telecommunication in 2006, both from the University of Rennes 1, France.
+
+[CV](https://odhondt.github.io/files/cv_dhondt_2024.pdf)
