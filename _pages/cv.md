@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](https://odhondt.github.io/files/cv_dhondt_2024.pdf) my CV as a pdf.
+A more detailed version of my CV can be downloaded [here](https://odhondt.github.io/files/cv_dhondt_2024.pdf).
 
 Education
 ======
@@ -51,9 +51,16 @@ Master intern, Institute of Electronics and Telecommunication of Rennes, Univers
   
 Skills
 ======
+### Programming
+Python, C/C++, Matlab, GIT
 
+### Languages
+- French (native)
+- English (fluent)
+- Spanish (fluent)
+- German (basic)
 
-Talks
-======
+<!-- Talks -->
+<!-- ====== -->
 
   
