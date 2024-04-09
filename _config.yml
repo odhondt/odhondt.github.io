@@ -21,7 +21,7 @@ repository               : "odhondt/odhondt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/my_photo.jpg"
+  avatar           : "my_photo.jpg"
   name             : "Olivier D'Hondt, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Remote Sensing Scientist"
