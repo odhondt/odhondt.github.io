@@ -19,4 +19,4 @@ From March 2006 to October 2007, I was a Postdoctoral Fellow and stayed as an in
 
 I received the M.S. degree in electrical engineering in 2002 and the Ph.D. degree in Signal Processing and Telecommunication in 2006, both from the University of Rennes 1, France.
 
-[CV](https://odhondt.github.io/files/cv_dhondt_2024.pdf)
+Here is my [CV](https://odhondt.github.io/files/cv_dhondt_2024.pdf) in pdf format.
