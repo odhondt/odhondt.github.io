@@ -12,7 +12,7 @@ title                    : "Olivier D'Hondt"
 title_separator          : "-"
 name                     : &name "Olivier D'Hondt"
 description              : &description "Remote Sensing Scientist"
-url                      : https://odhondt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://odhondt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "odhondt/odhondt.github.io"
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : # URL 
   pubmed           : # URL
-  researchgate     : https://www.researchgate.net/profile/Olivier_DHondt2
+  researchgate     : "https://www.researchgate.net/profile/Olivier_DHondt2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
