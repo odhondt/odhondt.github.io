@@ -25,7 +25,7 @@ author:
   name             : "Olivier D'Hondt, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Remote Sensing Scientist"
-  location         : #"Earth"
+  location         : "Wroclaw, Poland"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : #"none@example.org" 
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=3vZCkcEAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL 
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Olivier_DHondt2
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

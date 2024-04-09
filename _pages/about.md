@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Olivier D'Hondt, PhD - Remote Sensing & Image Processing Scientist"
+title: "Olivier D'Hondt, PhD "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Remote Sensing & Image Processing Scientist
+
+From January 2022 to September 2023 I was a Senior SAR scientist at Floodbase, a US climate tech startup.
 
 From September 2011 to August 2021, I was a Researcher at TU-Berlin (Technical University of Berlin) in the Computer Vision and Remote Sensing Group.
 
