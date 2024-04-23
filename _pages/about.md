@@ -9,6 +9,10 @@ redirect_from:
 
 ## Remote Sensing & Image Processing Scientist
 
+Research scientist in remote sensing and image processing with 15+ years of academic experience. My expertise lies in bridging computer vision with Synthetic Aperture Radar (SAR) technology, alongside solid skills in machine learning and geospatial analysis.  
+
+Previously, as a Senior SAR Scientist at Floodbase, I focused on flood mapping, contributing to disaster management and climate change mitigation. My passion lies in leveraging technology for societal betterment through research and innovation.  
+
 From January 2022 to September 2023 I was a Senior SAR scientist at Floodbase, a US climate tech startup.
 
 From September 2011 to August 2021, I was a Researcher at TU-Berlin (Technical University of Berlin) in the Computer Vision and Remote Sensing Group.
