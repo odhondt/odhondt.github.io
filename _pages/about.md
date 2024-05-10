@@ -11,6 +11,12 @@ redirect_from:
 
 [EO-Tools](https://github.com/odhondt/eo_tools)
 
+<p float="left">
+    <img src="https://github.com/odhondt/eo_tools/blob/main/data/ex_amp.png" width="300">
+    <img src="https://github.com/odhondt/eo_tools/blob/main/data/ex_phi.png" width="300">
+    <img src="https://github.com/odhondt/eo_tools/blob/main/data/ex_coh.png" width="300">
+</p>
+
 ## Remote Sensing & Image Processing Scientist
 
 Research scientist in remote sensing and image processing with 15+ years of academic experience. My expertise lies in bridging computer vision with Synthetic Aperture Radar (SAR) technology, alongside solid skills in machine learning and geospatial analysis.  
