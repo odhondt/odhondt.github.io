@@ -12,9 +12,9 @@ redirect_from:
 [EO-Tools](https://github.com/odhondt/eo_tools)
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/ex_amp.png" width="300">
-    <img src="https://github.com/odhondt/eo_tools/blob/main/data/ex_phi.png" width="300">
-    <img src="https://github.com/odhondt/eo_tools/blob/main/data/ex_coh.png" width="300">
+    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/ex_amp.png" width="250">
+    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/ex_phi.png" width="250">
+    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/ex_coh.png" width="250">
 </p>
 
 ## Remote Sensing & Image Processing Scientist
