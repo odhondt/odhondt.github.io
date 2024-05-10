@@ -9,7 +9,7 @@ redirect_from:
 
 ## New: Open source Sentinel-1 TOPS InSAR processor
 
-[EO-Tools](https://github.com/odhondt/eo_tools)
+More info on GitHub: [EO-Tools](https://github.com/odhondt/eo_tools)
 
 <p float="left">
     <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/ex_amp.png" width="250">
