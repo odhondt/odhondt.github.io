@@ -9,7 +9,7 @@ redirect_from:
 
 ## New: Open source Sentinel-1 TOPS InSAR processor
 
-https://github.com/odhondt/eo_tools
+[EO-Tools](https://github.com/odhondt/eo_tools)
 
 ## Remote Sensing & Image Processing Scientist
 
