@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+## New: Open source Sentinel-1 TOPS InSAR processor
+
+https://github.com/odhondt/eo_tools
+
 ## Remote Sensing & Image Processing Scientist
 
 Research scientist in remote sensing and image processing with 15+ years of academic experience. My expertise lies in bridging computer vision with Synthetic Aperture Radar (SAR) technology, alongside solid skills in machine learning and geospatial analysis.  
