@@ -9,7 +9,7 @@ redirect_from:
 
 ## New: Open source Sentinel-1 TOPS InSAR processor
 
-More info here: [EO-Tools](https://eo-tools.readthedocs.io/en/latest/)
+More info here: [EO-Tools](https://eo-tools.readthedocs.io/en/latest/) [![Conda Version](https://img.shields.io/conda/vn/conda-forge/eo-tools.svg)](https://anaconda.org/conda-forge/eo-tools)  
 
 <p float="left">
     <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/ex_amp.png" width="250">
