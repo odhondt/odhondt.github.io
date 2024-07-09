@@ -26,7 +26,7 @@ Experience
 ======
 
 ### Oct. 2023 – Now 
-Open source developer (EO-Tools: [https://github.com/odhondt/eo_tools](https://github.com/odhondt/eo_tools))
+Open source developer (EO-Tools: <a href="https://github.com/odhondt/eo_tools" target="_blank">https://github.com/odhondt/eo_tools</a>)
 
 ### Jan. 2022 – Sep. 2023 
 Senior SAR (Synthetic Aperture Radar) Scientist, Floodbase, USA (remote).
