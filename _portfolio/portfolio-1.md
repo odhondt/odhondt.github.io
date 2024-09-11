@@ -1,6 +1,6 @@
 ---
 title: "EO-Tools open source Earth Observation software"
-excerpt: "EO-Tools includes a Sentinel-1 TOPS InSAR processor 1<br/><img src='/images/eo-tools-vignette.png width=250'>"
+excerpt: "EO-Tools includes a Sentinel-1 TOPS InSAR processor 1<br/><img src='/images/eo-tools-vignette.png' width='500'>"
 collection: portfolio
 ---
 
