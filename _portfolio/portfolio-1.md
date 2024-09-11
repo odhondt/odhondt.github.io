@@ -24,7 +24,9 @@ Currently, the implemented features are:
 
 
 More info, including tutorials in the docs: <a href="https://eo-tools.readthedocs.io/" target="_blank">eo-tools.readthedocs.io</a> 
+
 Source code on [github](https://github.com/odhondt/eo_tools)
+
 Conda-forge package: [![Conda Version](https://img.shields.io/conda/vn/conda-forge/eo-tools.svg)](https://anaconda.org/conda-forge/eo-tools)  
 
 
