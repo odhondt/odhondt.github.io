@@ -19,7 +19,7 @@ Are you looking to enhance your data science projects using advanced Synthetic A
 
 ### Services Offered:
 
-- **Software Engineering**: Implement cutting-edge methods from academic research or re-engineer existing research code into reliable, reproducible software. Services include module development, UI design, packaging, documentation, unit testing, benchmarking, and optimization.
+- **Software Engineering**: Implement cutting-edge methods from academic research or re-engineer existing research code into reliable, reproducible software. Services include module development, packaging, documentation, unit testing, benchmarking, and optimization.
 
 - **Data Science & Analytics**: Extract meaningful insights from SAR data by placing it in a geospatial context, creating compelling visualizations, and rigorously validating algorithms to ensure precise and dependable outcomes.
 
