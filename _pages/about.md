@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-# Elevate Your Data Science Projects with Expert SAR and Geospatial Data Science Consultancy
+## Elevate Your Data Science Projects with Expert SAR and Geospatial Data Science Consultancy
 
 Are you looking to enhance your data science projects using advanced Synthetic Aperture Radar (SAR) and remote sensing imagery? With over 15 years of experience, including a PhD in SAR image processing, I specialize in extracting actionable insights from complex SAR data. Whether your project involves multi-temporal analysis, polarimetry, interferometry, or integrating SAR with other data sources, I offer tailored solutions to meet your unique challenges.
 
-## Why Partner with Me?
+### Why Partner with Me?
 
 - **Specialized Expertise**: With deep knowledge in SAR image processing and demonstrated success combining SAR with other sensor data, I have a proven track record in applying these techniques to real-world challenges, such as mapping urban floods for Floodbase, a leading U.S. tech climate company.
 - **Innovative Techniques**: Skilled in applying machine learning to land-cover classification using interferometric data, achieving results that surpass traditional methods.
 - **Comprehensive Solutions**: From software engineering to algorithm prototyping, I provide comprehensive services that ensure your SAR projects are scientifically sound and practically applicable.
 
-## Services Offered:
+### Services Offered:
 
 - **Software Engineering**: Implement cutting-edge methods from academic research or re-engineer existing research code into reliable, reproducible software. Services include module development, UI design, packaging, documentation, unit testing, benchmarking, and optimization.
 
@@ -26,8 +26,6 @@ Are you looking to enhance your data science projects using advanced Synthetic A
 - **Algorithm Prototyping**: Quickly develop and refine new algorithms tailored to your specific requirements, from initial concept to deployment.
 
 Unlock the full potential of your SAR data with expert consultancy services. Let's collaborate to achieve groundbreaking results in your geospatial data science projects. Contact me today to learn more!
-
-
 
 
 <!-- ## Remote Sensing & Image Processing Scientist
