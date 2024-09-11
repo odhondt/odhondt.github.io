@@ -19,11 +19,11 @@ Are you looking to enhance your data science projects using advanced Synthetic A
 
 ### Services Offered:
 
-- **Software Engineering**: Implement cutting-edge methods from academic research or re-engineer existing research code into reliable, reproducible software. Services include module development, packaging, documentation, unit testing, benchmarking, and optimization.
-
 - **Data Science & Analytics**: Extract meaningful insights from SAR data by placing it in a geospatial context, creating compelling visualizations, and rigorously validating algorithms to ensure precise and dependable outcomes.
 
 - **Algorithm Prototyping**: Quickly develop and refine new algorithms tailored to your specific requirements, from initial concept to deployment.
+
+- **Software Engineering**: Implement cutting-edge methods from academic research or re-engineer existing research code into reliable, reproducible software. Services include module development, packaging, documentation, unit testing, benchmarking, and optimization.
 
 Unlock the full potential of your SAR data with expert consultancy services. Let's collaborate to achieve groundbreaking results in your geospatial data science projects. Contact me today to learn more!
 
