@@ -12,6 +12,8 @@ collection: portfolio
 
 EO-Tools is a python toolbox that does not rely any external software and takes advantage of modern geospatial & high performance computing modules like rasterio/gdal, geopandas, shapely, folium, xarray, dask and numba. 
 
+Its goal is to ease the development of complex remote sensing processing chains combining different modalities like radar and optical. 
+
 Currently, the implemented features are:
 - Interferometric processing of Sentinel-1 pairs, including TOPS processing steps like azimuth deramping, DEM assisted coregistration and Range-Doppler terrain correction and Enhanced Spectral Diversity. Individual bursts as well as full products can be processed and cropped to any area of interest provided by the user.
 - Amplitude geocoding of SLC Sentinel-1 images, with Beta or Sigma Nought calibration
