@@ -1,11 +1,8 @@
 ---
 title: "EO-Tools open source Earth Observation software"
-# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "EO-Tools includes a Sentinel-1 TOPS InSAR processor 1<br/><img src='/images/eo-tools-vignette.png'>"
 collection: portfolio
 ---
-
-
-## New: Open source Sentinel-1 TOPS InSAR processor
 
 More info here: <a href="https://eo-tools.readthedocs.io/" target="_blank">eo-tools.readthedocs.io</a> [![Conda Version](https://img.shields.io/conda/vn/conda-forge/eo-tools.svg)](https://anaconda.org/conda-forge/eo-tools)  
 
