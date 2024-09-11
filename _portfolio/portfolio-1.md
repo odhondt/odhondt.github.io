@@ -1,6 +1,6 @@
 ---
 title: "EO-Tools, an open source Earth Observation software"
-excerpt: "A pure python toolbox to search, download and process Sentinel-1 InSAR pairs, Sentinel-2 tiles and Digital Elevation Models.<br/><img src='/images/eo-tools-vignette.png' width='600'>"
+excerpt: "A pure python toolbox to search, download and process Sentinel-1 InSAR pairs, Sentinel-2 tiles and Digital Elevation Models.<br/><img src='/images/eo-tools-vignette.png' width='400'>"
 collection: portfolio
 ---
 
