@@ -15,9 +15,9 @@ EO-Tools is a python toolbox that does not rely any external software and takes 
 Its goal is to ease the development of complex remote sensing processing chains combining different modalities like radar and optical. 
 
 Currently, the implemented features are:
-- Interferometric processing of Sentinel-1 pairs, including TOPS processing steps like azimuth deramping, DEM assisted coregistration and Range-Doppler terrain correction and Enhanced Spectral Diversity. Individual bursts as well as full products can be processed and cropped to any area of interest provided by the user.
-- Amplitude geocoding of SLC Sentinel-1 images, with Beta or Sigma Nought calibration
-- Ability to apply processing in the SAR geometry and further project the results in a geographic coordinate systems using lookup-tables
+- Interferometric processing of Sentinel-1 pairs, including TOPS processing steps like azimuth deramping, DEM assisted coregistration, Range-Doppler terrain correction and Enhanced Spectral Diversity. Individual bursts can be processed as well as full products and cropped to any area of interest provided by the user.
+- Amplitude geocoding of SLC Sentinel-1 images, with Beta or Sigma Nought calibration.
+- Ability to apply processing in the SAR geometry and further project the results in a geographic coordinate systems using lookup-tables.
 - Geocoding merging and cropping of Sentinel-2 products with selection of radiometric bands and optional color compositing (natural RGB, CIR, SWIR, etc)
 - Easy exploration of Sentinel-1 footprints to retrieve interferometric pairs
 - Downloading of various digital elevation models given a user defined  geometry
