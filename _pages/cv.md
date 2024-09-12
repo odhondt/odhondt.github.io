@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Short bio
+### Short bio
 
 Experienced Remote Sensing and Image Processing Engineer with over 15 years of expertise in developing advanced algorithms for satellite data analysis and Earth Observation (EO) applications. Proficient in Python, C++, and machine learning frameworks, with a strong track record in leading
 innovative projects and contributing to interdisciplinary teams.
