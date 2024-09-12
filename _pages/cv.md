@@ -26,7 +26,7 @@ Bachelor’s Degree in Electrical Engineering, University of Rennes 1, France.
 #### 1998  
 DEUG Sciences de la Matière (two-year university degree in Physics), University of Rennes 1, France.  
 
-###Experience
+### Experience
 
 #### Oct. 2023 – Now 
 Open source developer (EO-Tools: <a href="https://github.com/odhondt/eo_tools" target="_blank">https://github.com/odhondt/eo_tools</a>)
