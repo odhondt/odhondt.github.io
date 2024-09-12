@@ -16,16 +16,6 @@ innovative projects and contributing to interdisciplinary teams.
 
 A more detailed version of my CV can be downloaded [here](https://odhondt.github.io/files/cv_dhondt_2024.pdf).
 
-### Education
-#### 2006  
-PhD in Signal Processing, University of Rennes 1, France.  
-#### 2002
-Master’s Degree in Electrical Engineering, majoring in Image Processing, University of Rennes 1, France.  
-#### 2000  
-Bachelor’s Degree in Electrical Engineering, University of Rennes 1, France.  
-#### 1998  
-DEUG Sciences de la Matière (two-year university degree in Physics), University of Rennes 1, France.  
-
 ### Experience
 
 #### Oct. 2023 – Now 
@@ -54,6 +44,17 @@ PhD candidate, Institute of Electronics and Telecommunication of Rennes, Univers
 
 #### Mar. 2002 – Aug. 2002
 Master intern, Institute of Electronics and Telecommunication of Rennes, University of Rennes 1, France.
+
+### Education
+#### 2006  
+PhD in Signal Processing, University of Rennes 1, France.  
+#### 2002
+Master’s Degree in Electrical Engineering, majoring in Image Processing, University of Rennes 1, France.  
+#### 2000  
+Bachelor’s Degree in Electrical Engineering, University of Rennes 1, France.  
+#### 1998  
+DEUG Sciences de la Matière (two-year university degree in Physics), University of Rennes 1, France.  
+
 
   
 ### Skills
