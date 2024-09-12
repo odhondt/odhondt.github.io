@@ -1,6 +1,6 @@
 ---
 title: "NDSAR, a multi-dimensional nonlocal speckle filter"
-# excerpt: "A pure python toolbox to search, download and process Sentinel-1 InSAR pairs, Sentinel-2 tiles and Digital Elevation Models.<br/><img src='/images/eo-tools-vignette.png' width='600'>"
+excerpt: "An efficient nonlocal filter to remove noise from polarimetric, interferometric and multitemporal SAR data<br/><img src='/images/ndsar-preview.png' width='600'>"
 collection: portfolio
 ---
 
