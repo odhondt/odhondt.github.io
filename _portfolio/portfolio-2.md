@@ -11,10 +11,10 @@ I have released the open source Python/C++ implementations of the filters based 
 
 Equivalent filters for single channel i.e. intensity images are also provided (special case of 1x1 covariance matrix).
 
-Here is an example of F-SAR image (DLR) filtered with NDSAR:
+Here is an example of an F-SAR image (DLR) filtered with NDSAR (left: original, right: filtered):  
 <img src='/images/ndsar_preview.png' width='600'>
 
-The figure below shows the impact of NDSAR on 3-D reconstruction from multi-baseline interferometric data (also called SAR tomography).
+The figure below shows the impact of NDSAR on 3-D point cloud extraction from multi-baseline interferometric data (also called SAR tomography):  
 <img src='/images/fig_NDSAR.png' width='400'>
 
 Source code on [github](https://github.com/odhondt/ndsar)
