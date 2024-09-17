@@ -15,6 +15,6 @@ Here is an example of F-SAR image (DLR) filtered with NDSAR:
 <img src='/images/ndsar_preview.png' width='600'>
 
 The figure below shows the impact of NDSAR on 3-D reconstruction from multi-baseline interferometric data (also called SAR tomography).
-<img src='/images/fig_NDSAR.png' width='600'>
+<img src='/images/fig_NDSAR.png' width='400'>
 
 Source code on [github](https://github.com/odhondt/ndsar)
