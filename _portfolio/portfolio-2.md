@@ -18,3 +18,14 @@ The figure below shows the impact of NDSAR on 3-D point cloud extraction from mu
 <img src='/images/fig_NDSAR.png' width='400'>
 
 Source code on [github](https://github.com/odhondt/ndsar)
+
+
+More information can be found in the following publications:  
+
+O. D'Hondt, C. López-Martínez , S. Guillaso and O. Hellwich.
+**Nonlocal Filtering Applied to 3-D Reconstruction of Tomographic SAR Data.**
+_IEEE Transactions on Geoscience and Remote Sensing, 2018, 56, 272-285_   
+
+O. D'Hondt, S. Guillaso and O. Hellwich. 
+**Iterative Bilateral Filtering of Polarimetric SAR Data.** 
+_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,  2013, 6, 1628-1639_
