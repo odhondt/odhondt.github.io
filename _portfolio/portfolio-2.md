@@ -4,6 +4,10 @@ excerpt: "An efficient nonlocal filter to remove speckle from polarimetric, inte
 collection: portfolio
 ---
 
+<img src='/images/ndsar_preview.png' width='600'>
+
+<img src='/images/fig_NDSAR.png' width='600'>
+
 In construction.
 
 Source code on [github](https://github.com/odhondt/ndsar)
