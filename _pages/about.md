@@ -27,6 +27,7 @@ Are you looking to enhance your data science projects using advanced Synthetic A
 
 Unlock the full potential of your SAR data with expert consultancy services. Let's collaborate to achieve groundbreaking results in your geospatial data science projects. Contact me today to learn more!
 
+<link href="https://framapiaf.org/@tyldurd" rel="me">
 
 <!-- ## Remote Sensing & Image Processing Scientist
 
