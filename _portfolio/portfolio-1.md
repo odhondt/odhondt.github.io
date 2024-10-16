@@ -5,9 +5,10 @@ collection: portfolio
 ---
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/ex_amp.png" width="250">
-    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/ex_coh.png" width="250">
-    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/ex_phi.png" width="250">
+    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/amp_vh_berlin.png" width="360">
+    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/coh_vh_berlin.png" width="360">
+    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/change_berlin.png" width="360">
+    <img src="https://raw.githubusercontent.com/odhondt/eo_tools/main/data/s2_berlin.png" width="360">
 </p>
 
 EO-Tools is a python toolbox that does not rely any external software and takes advantage of modern geospatial & high performance computing modules like rasterio/gdal, geopandas, shapely, folium, xarray, dask and numba. 
