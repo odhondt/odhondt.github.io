@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Elevate Your Data Science Projects with Expert SAR and Geospatial Data Science Consultancy
+## Elevate Your Data Science Projects with Expert SAR and Geospatial Data Science Solutions
 
 Are you looking to enhance your data science projects using advanced Synthetic Aperture Radar (SAR) and remote sensing imagery? With over 15 years of experience, including a PhD in SAR image processing, I specialize in extracting actionable insights from complex SAR data. Whether your project involves multi-temporal analysis, polarimetry, interferometry, or integrating SAR with other data sources, I offer tailored solutions to meet your unique challenges.
 
@@ -25,7 +25,7 @@ Are you looking to enhance your data science projects using advanced Synthetic A
 
 - **Software Engineering**: Implement cutting-edge methods or re-engineer existing research code into reliable, reproducible software. Services include module development, packaging, documentation, unit testing, benchmarking, and optimization.
 
-Unlock the full potential of your SAR data with expert consultancy services. Let's collaborate to achieve groundbreaking results in your geospatial data science projects. Contact me today to learn more!
+Unlock the full potential of your SAR data with cutting-edge software and data science solutions. Let’s collaborate to develop scalable, high-impact geospatial applications. Contact me today to get started!
 
 <link href="https://framapiaf.org/@tyldurd" rel="me">
 
